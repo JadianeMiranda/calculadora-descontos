@@ -3,9 +3,9 @@ Um programa Python que simula um sistema de vendas em uma loja. Calcula o preço
 
 # Como funciona:⚙️
 
-1 -  print("Bem vindo a loja Sol Nascente"): Isso imprime uma mensagem de boas-vindas na tela quando o programa é executado.
+# Entrada de Dados:
 
- # Entrada de Dados:
+1 -  print("Bem vindo a loja Sol Nascente"): Isso imprime uma mensagem de boas-vindas na tela quando o programa é executado.
 
 2- valor_produto = float(input("Entre com o valor do produto:")): Solicita ao usuário que insira o valor do produto. O valor é lido como um número de ponto flutuante (float).
 
